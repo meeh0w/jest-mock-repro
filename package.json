@@ -1,0 +1,12 @@
+{
+  "name": "jest-mock-repro",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Michał Leszczyk",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
